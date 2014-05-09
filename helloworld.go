@@ -8,6 +8,4 @@ func main() {
 	fmt.Println("The Peoples Republic of China")
 
 	fmt.Println("I love Beijing Tian'An Men")
-
-	xxxxxxxxxxxxxx
-}  
+}
